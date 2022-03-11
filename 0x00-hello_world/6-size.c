@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry
- * return 0 for success
+ * main: Entry
+ * Return: 0 for success
  */
-
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char)); 
